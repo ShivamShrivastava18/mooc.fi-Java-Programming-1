@@ -1,0 +1,1 @@
+[{"className":"AreWeThereYetTest","methodName":"test1","pointNames":["02-06"],"status":"PASSED"},{"className":"AreWeThereYetTest","methodName":"test2","pointNames":["02-06"],"status":"PASSED"},{"className":"AreWeThereYetTest","methodName":"test3","pointNames":["02-06"],"status":"PASSED"}]
